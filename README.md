@@ -17,16 +17,16 @@
   </ol>
 </details>
 
-# Math operations test : 
+## Math operations test : 
 
 calculator for addition and subtraction
 
 
-## Prerequisites :
+### Prerequisites :
  
 Prerequisites To run this project, you need to install Python.
 
-## Implementation :
+### Implementation :
 
 Implementation  To use this project, you need the behave library
 
@@ -34,6 +34,6 @@ Implementation  To use this project, you need the behave library
 pip install behave
 ```
 
-## Audience :
+### Audience :
 
 The audience of this content : QA programer
